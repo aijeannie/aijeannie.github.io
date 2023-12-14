@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: "AI Jeannie",
         logo: {
-          alt: "AI Jeannie Logo",
+          alt: "Logo",
           src: "img/logo.svg",
         },
         items: [

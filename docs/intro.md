@@ -1,47 +1,30 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Guide Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **AI Jeannie in less than 5 minutes**.
 
-## Getting Started
+## What is AI Jeannie?
 
-Get started by **creating a new site**.
+AI Jeannie is a JIRA plugin that helps Business Analysts to create quick epic descriptions, user story descriptions, and acceptance criteria based on Project Definition configured. It works based on the popular AI provider text generation models. It can help users to quickly generate high-quality, accurate, and relevant content for their JIRA issues, saving them time and effort.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why use AI Jeannie?
 
-### What you'll need
+AI Jeannie can help users to streamline their JIRA workflows, improve quality of their sprint, reduce manual effort and improve the quality of their JIRA issues. It can also enhance the collaboration between Business Analysts and other JIRA users by providing a common language and terminology for JIRA issues.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## How to install AI Jeannie?
 
-## Generate a new site
+AI Jeannie can be installed from the Atlassian Marketplace. Users need to select their AI provider and configure Model Deployment URL, Model Name, API Version, and API Key for the plugin to work. Users also need to configure the Project Defintion for the specific JIRA project board that they want to use the AI Jeannie plugin features.
 
-Generate a new Docusaurus site using the **classic template**.
+## Features of AI Jeannie
 
-The classic template will automatically be added to your project after you run the command:
+AI Jeannie provides the following features:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. **Quick content generation:** AI Jeannie can generate quick and accurate epic descriptions, user story descriptions, and acceptance criteria based on Project Definition configured.
+2. **Customizable templates:** AI Jeannie provides customizable prompt templates for epic descriptions, user story descriptions, and acceptance criteria. Users can modify the templates to suit their needs.
+3. **Natural language processing:** AI Jeannie uses natural language processing to understand the context of the JIRA issue and generate relevant content.
+4. **Integration with multiple AI providers:** AI Jeannie integrates with OpenaI, Azure OpenAI and Google Vertex provider models to generate high-quality content.
+5. **Collaboration:** AI Jeannie enhances the collaboration between Business Analysts and other JIRA users by providing a common language and terminology for JIRA issues.

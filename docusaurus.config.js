@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "AI Jeannie",
-  tagline: "Atlassian JIRA Assistant",
+  tagline: "Atlassian JIRA Assistant for Agile Teams",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -103,15 +103,15 @@ const config = {
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://stackoverflow.com/questions/tagged/ai-jeannie",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://discordapp.com/invite/ai-jeannie",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/ai-jeannie",
               },
             ],
           },
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/India-LLM-GPT-Research/ai-jeannie-docs",
               },
             ],
           },

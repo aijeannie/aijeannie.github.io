@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_jeannie_docs=self.webpackChunkai_jeannie_docs||[]).push([[8803],{7213:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/ai-jeannie-docs/blog/tags/facebook","allTagsPath":"/ai-jeannie-docs/blog/tags","count":1,"unlisted":false}')}}]);

@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Quick content generation",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/undraw_add_content_re_vgqa.svg").default,
     description: (
       <>
         AI Jeannie can generate quick and accurate epic descriptions, user story
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: "Customizable templates",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/undraw_preferences_re_49in.svg").default,
     description: (
       <>
         AI Jeannie provides customizable prompt templates for epic descriptions,
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: "Integration with multiple AI providers",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/undraw_product_iteration_kjok.svg").default,
     description: (
       <>
         AI Jeannie integrates with OpenaI, Azure OpenAI and Google Vertex

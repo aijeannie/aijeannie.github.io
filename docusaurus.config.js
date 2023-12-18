@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "AI Jeannie",
   tagline: "Atlassian JIRA Assistant for Agile Teams",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
 
   // Set the production url of your site here
   url: "https://india-llm-gpt-research.github.io",

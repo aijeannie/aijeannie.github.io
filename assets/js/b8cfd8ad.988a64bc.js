@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_jeannie_docs=self.webpackChunkai_jeannie_docs||[]).push([[4808],{6283:e=>{e.exports=JSON.parse('{"permalink":"/ai-jeannie/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

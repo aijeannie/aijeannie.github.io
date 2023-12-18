@@ -13,15 +13,15 @@ const config = {
   favicon: "img/logo.png",
 
   // Set the production url of your site here
-  url: "https://india-llm-gpt-research.github.io",
+  url: "https://aijeannie.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "india-llm-gpt-research", // Usually your GitHub org/user name.
-  projectName: "ai-jeannie-docs", // Usually your repo name.
+  organizationName: "aijeannie", // Usually your GitHub org/user name.
+  projectName: "aijeannie.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -80,7 +80,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/aijeannie/aijeannie.github.io",
             label: "GitHub",
             position: "right",
           },
@@ -103,11 +103,11 @@ const config = {
             items: [
               {
                 label: "Privacy Policy",
-                href: "https://india-llm-gpt-research.github.io/ai-jeannie/docs/legal/privacy-policy",
+                href: "https://aijeannie.github.io/docs/legal/privacy-policy",
               },
               {
                 label: "EULA",
-                href: "https://india-llm-gpt-research.github.io/ai-jeannie/docs/legal/eula",
+                href: "https://aijeannie.github.io/docs/legal/eula",
               },
             ],
           },
@@ -137,7 +137,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/India-LLM-GPT-Research/ai-jeannie-docs",
+                href: "https://github.com/aijeannie/aijeannie.github.io",
               },
             ],
           },

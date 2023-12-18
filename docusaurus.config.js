@@ -69,7 +69,7 @@ const config = {
         title: "AI Jeannie",
         logo: {
           alt: "Logo",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           {

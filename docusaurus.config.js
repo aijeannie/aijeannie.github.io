@@ -99,22 +99,35 @@ const config = {
             ],
           },
           {
-            title: "Community",
+            title: "Legal",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/ai-jeannie",
+                label: "Privacy Policy",
+                href: "https://india-llm-gpt-research.github.io/ai-jeannie/docs/legal/privacy-policy",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/ai-jeannie",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/ai-jeannie",
+                label: "EULA",
+                href: "https://india-llm-gpt-research.github.io/ai-jeannie/docs/legal/eula",
               },
             ],
           },
+          // {
+          //   title: "Community",
+          //   items: [
+          //     {
+          //       label: "Stack Overflow",
+          //       href: "https://stackoverflow.com/questions/tagged/ai-jeannie",
+          //     },
+          //     {
+          //       label: "Discord",
+          //       href: "https://discordapp.com/invite/ai-jeannie",
+          //     },
+          //     {
+          //       label: "Twitter",
+          //       href: "https://twitter.com/ai-jeannie",
+          //     },
+          //   ],
+          // },
           {
             title: "More",
             items: [
@@ -129,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannoe, EPAM Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannie, EPAM Inc.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannie, EPAM Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannie, EPAM Systems Inc.`,
       },
       prism: {
         theme: prismThemes.github,

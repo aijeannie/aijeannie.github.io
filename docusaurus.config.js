@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/aijeannie-social-card.png",
+      image: "img/aijeannie-social-card.jpg",
       navbar: {
         title: "AI Jeannie",
         logo: {

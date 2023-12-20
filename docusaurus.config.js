@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "AI Jeannie",
-  tagline: "Atlassian JIRA Assistant for Agile Teams",
+  tagline: "Atlassian JIRA AI Plugin for Agile Teams",
   favicon: "img/logo.png",
 
   // Set the production url of your site here
@@ -146,7 +146,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannie, EPAM Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AI Jeannie, EPAM Systems Inc.`,
       },
       prism: {
         theme: prismThemes.github,

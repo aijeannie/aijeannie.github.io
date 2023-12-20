@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} - Docs`}
-      description="Atlassian JIRA Assistant for Agile Teams"
+      description="Atlassian JIRA AI Plugin for Agile Teams"
     >
       <HomepageHeader />
       <main>

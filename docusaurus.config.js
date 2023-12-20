@@ -109,6 +109,10 @@ const config = {
                 label: "EULA",
                 href: "https://aijeannie.github.io/docs/legal/eula",
               },
+              {
+                label: "Atlassian Trademark Guidelines",
+                href: "https://www.atlassian.com/legal/trademark",
+              },
             ],
           },
           // {

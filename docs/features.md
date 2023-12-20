@@ -5,14 +5,14 @@ title: Features
 
 # Features
 
-1. Acceptance Criteria Generation​
-2. Sequence Diagram Generation​
-3. Project Definition Configuration​ 
-4. Prompt Templates Configuration​
-5. AI Provider Configuration​
-6. Dupcheck against your User Stories & Epics​
+1. [**Acceptance Criteria Generation**](#feature-1-acceptance-criteria-generation) - Create Acceptance Criteria for both Epics and User Stories.
+2. [**Sequence Diagram Generation**](#feature-2-sequence-diagram-generation) - Produce Sequence Diagrams derived from the acceptance criteria.
+3. [**Project Definition Configuration**](#feature-3-project-definition-configuration) - Set up the Project's Scope, Goals, Architecture, and Compliance within the AI context.
+4. [**Prompt Templates Configuration**](#feature-4-prompt-templates-configuration) - Personalize your Prompt Templates, including System, User, Epic, and User Story templates.
+5. [**AI Provider Configuration**](#feature-5-ai-provider-configuration) - Be cloud-independent by bringing your own AI providers such as OpenAI, Azure OpenAI, or Google Vertex.
+6. [**Duplication Check for User Stories and Epics**](#feature-6-duplication-check-for-user-stories-and-epics) - Verify for any duplicate content among existing user stories and epics.
 
-## Feature 1: Epics/User Stories - Acceptance Criteria Generation
+## Feature 1: Acceptance Criteria Generation
 
 AI Jeannie can generate acceptance criteria for user stories based on the project definition configured. It uses natural language processing to understand the user story and its context, and then generates relevant acceptance criteria that meet the requirements of the user story.
 
@@ -73,5 +73,5 @@ AI Jeannie supports integration with multiple AI providers, including OpenAI, Az
 | read:project.property:jira | Allows reading information about Jira project properties | Storage API |
 | write:project.property:jira | Allows creating and updating Jira project properties | Storage API |
 
-## Feature 6: Dupcheck against your User Stories & Epics
+## Feature 6: Duplication Check for User Stories and Epics
 AI Jeannie includes a feature to check for duplicate content against existing user stories and epics. This helps to prevent the generation of redundant or repetitive content and ensures that each generated piece of content is unique. By performing this duplicate check, AI Jeannie helps to maintain the quality and coherence of the JIRA issues and avoids unnecessary duplication of information.

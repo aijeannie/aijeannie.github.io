@@ -1,16 +1,9 @@
 ---
 sidebar_position: 4
-title: Features
+title: Permissions 
 ---
 
-# Features
-
-1. Acceptance Criteria Generation​
-2. Sequence Diagram Generation​
-3. Project Definition Configuration​ 
-4. Prompt Templates Configuration​
-5. AI Provider Configuration​
-6. Dupcheck against your User Stories & Epics​
+JIRA Permission mapping for AI Jeannie against the features.
 
 ## Feature 1: Epics/User Stories - Acceptance Criteria Generation
 

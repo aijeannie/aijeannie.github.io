@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_jeannie_docs=self.webpackChunkai_jeannie_docs||[]).push([[8575],{8714:e=>{e.exports=JSON.parse('{"title":"Features","slug":"/category/features","permalink":"/docs/category/features","navigation":{"previous":{"title":"Configuration","permalink":"/docs/configuration"},"next":{"title":"Intro","permalink":"/docs/features/intro"}}}')}}]);

@@ -20,8 +20,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
+            style={{ marginRight: "20px" }}
           >
             Getting Started - 5min ⏱️
+          </Link>
+          <Link
+            className="button button--download button--lg"
+            href="https://marketplace.atlassian.com/apps/1232950"
+          >
+            Download from Marketplace
           </Link>
         </div>
       </div>

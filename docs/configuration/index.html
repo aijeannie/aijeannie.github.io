@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.0.1">
 <title data-rh="true">Configuration | AI Jeannie</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://aijeannie.github.io/img/aijeannie-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://aijeannie.github.io/img/aijeannie-social-card.jpg"><meta data-rh="true" property="og:url" content="https://aijeannie.github.io/docs/configuration"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Configuration | AI Jeannie"><meta data-rh="true" name="description" content="AI Provider Configuration"><meta data-rh="true" property="og:description" content="AI Provider Configuration"><link data-rh="true" rel="icon" href="/img/logo.png"><link data-rh="true" rel="canonical" href="https://aijeannie.github.io/docs/configuration"><link data-rh="true" rel="alternate" href="https://aijeannie.github.io/docs/configuration" hreflang="en"><link data-rh="true" rel="alternate" href="https://aijeannie.github.io/docs/configuration" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="AI Jeannie RSS Feed">
-<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="AI Jeannie Atom Feed"><link rel="stylesheet" href="/assets/css/styles.e213dc05.css">
-<script src="/assets/js/runtime~main.c23a6af5.js" defer="defer"></script>
+<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="AI Jeannie Atom Feed"><link rel="stylesheet" href="/assets/css/styles.a7b39d75.css">
+<script src="/assets/js/runtime~main.2d4a9090.js" defer="defer"></script>
 <script src="/assets/js/main.ef79b141.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -18,21 +18,18 @@
 <li>
 <p>Access the board&#x27;s settings by clicking on the &quot;Project Settings&quot; icon in the bottom-left corner of the board.</p>
 </li>
-<li>
-<p>In the Project settings, under the <strong>Apps</strong> look for the &quot;AI Jeannie - Settings&quot; option. Click on the <strong>&quot;AI Jeannie - Settings&quot;</strong> option to access the configuration settings for the AI Jeannie plugin.</p>
-</li>
-<li>
-<p>In the configuration settings, you will typically find options for selecting the AI provider, providing the Model Deployment URL, Model Name, API Version, and API Key for the chosen provider.</p>
-</li>
-<li>
-<p>Choose the AI provider that you want to integrate with (such as OpenAI, Azure OpenAI, or Google Vertex) from the available options.</p>
-</li>
-<li>
-<p>Provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, API Version, and API Key. Ensure that you have obtained the API credentials and access details required for the chosen provider.</p>
-</li>
-<li>
-<p>Save the configuration settings once all the necessary details are provided.</p>
-</li>
+</ol>
+<img src="/screenshots/ai-config-step-1.png" alt="Step 1">
+<ol start="3">
+<li>In the Project settings, under the <strong>Apps</strong> look for the &quot;AI Jeannie - Settings&quot; option. Click on the <strong>&quot;AI Jeannie - Settings&quot;</strong> option to access the configuration settings for the AI Jeannie plugin.</li>
+</ol>
+<img src="/screenshots/ai-config-step-2.png" alt="Step 2">
+<ol start="4">
+<li>Choose the AI provider that you want to integrate with (such as OpenAI, Azure OpenAI) from the available options. Provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, API Version, and API Key. Ensure that you have obtained the API credentials and access details required for the chosen provider.</li>
+</ol>
+<img src="/screenshots/ai-config-step-3.png" alt="Step 3">
+<ol start="5">
+<li>Save the configuration settings once all the necessary details are provided.</li>
 </ol>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="project-definition-configuration">Project Definition Configuration<a href="#project-definition-configuration" class="hash-link" aria-label="Direct link to Project Definition Configuration" title="Direct link to Project Definition Configuration">​</a></h2>
 <p>Here are the steps to configure the Project Definition for the AI Jeannie plugin:</p>
@@ -41,17 +38,20 @@
 <p>Next, configure the Project Definition for the specific JIRA project board. The Project Definition is used by AI Jeannie to understand the context of the JIRA issues and generate relevant content.</p>
 </li>
 <li>
-<p>Access the Project Definition settings. This may be available within the AI Jeannie plugin configuration, or it may be a separate option in the board settings.</p>
+<p>To configure the Project Definition, under Apps look for the &quot;AI Jeannie&quot; app. Click on the <strong>&quot;AI Jeannie&quot;</strong> app and then click on the <strong>&quot;Project Definition&quot;</strong> tab.</p>
 </li>
-<li>
-<p>Define the fields, criteria, and other project-specific details in the Project Definition. This includes specifying the information that AI Jeannie should consider when generating content for epics, user stories, and acceptance criteria.</p>
-</li>
-<li>
-<p>Save the Project Definition settings once you have configured all the necessary details.</p>
-</li>
-<li>
-<p>You are now ready to use AI Jeannie within your JIRA board. You can generate epic descriptions, user story descriptions, and acceptance criteria based on the configured settings and the context of your JIRA issues.</p>
-</li>
+</ol>
+<img src="/screenshots/pc-step-1.png" alt="Step 1">
+<ol start="3">
+<li>Under the Project Definition tab, define the fields, criteria, and other project-specific details in the Project Definition. This includes specifying the information that AI Jeannie should consider when generating content for epics, user stories, and acceptance criteria.</li>
+</ol>
+<img src="/screenshots/pc-step-2.png" alt="Step 2">
+<ol start="4">
+<li>Save the Project Definition settings once you have configured all the necessary details.</li>
+</ol>
+<img src="/screenshots/pc-step-3.png" alt="Step 3">
+<ol start="5">
+<li>You are now ready to use AI Jeannie within your JIRA board. You can generate epic descriptions, user story descriptions, and acceptance criteria based on the configured settings and the context of your JIRA issues.</li>
 </ol></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/installation"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Installation</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/category/features"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Features</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#ai-provider-configuration" class="table-of-contents__link toc-highlight">AI Provider Configuration</a></li><li><a href="#project-definition-configuration" class="table-of-contents__link toc-highlight">Project Definition Configuration</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Docs</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Guides</a></li></ul></div><div class="col footer__col"><div class="footer__title">Legal</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://aijeannie.github.io/docs/legal/privacy-policy" target="_blank" rel="noopener noreferrer" class="footer__link-item">Privacy Policy<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://aijeannie.github.io/docs/legal/eula" target="_blank" rel="noopener noreferrer" class="footer__link-item">EULA<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://www.atlassian.com/legal/trademark" target="_blank" rel="noopener noreferrer" class="footer__link-item">Atlassian Trademark Guidelines<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">More</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/blog">Blog</a></li><li class="footer__item"><a href="https://github.com/aijeannie/aijeannie.github.io" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 AI Jeannie, EPAM Systems Inc.</div></div></div></footer></div>
 </body>
 </html>

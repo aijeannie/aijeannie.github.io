@@ -36,3 +36,18 @@
 .loom-iframe{
   position: absolute; top: 0; left: 0; width: 100%; height: 100%;
 }
+
+.button--download{
+  background-color: #e6d0ff;
+  color: #000;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button--download:hover{
+  background-color: #7049aa;
+  color: #fff;
+}

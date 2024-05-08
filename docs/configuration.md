@@ -5,20 +5,18 @@ title: Configuration
 
 ## AI Provider Configuration
 
-Here are the steps to configure the AI provider for the AI Jeannie plugin:
+You need Jira Admin access to perform AI Provider Configuration. Here are the steps to configure the AI provider for the AI Jeannie plugin:
 
-1. Open your JIRA instance and navigate to the JIRA board where you want to configure the AI Jeannie plugin.
+1. Open your JIRA instance and navigate to the  **"Apps > Manage you apps"** page. 
+<img src="/screenshots/ai-provider-config-step-1.png" alt="Step 1" />
 
-2. Access the board's settings by clicking on the "Project Settings" icon in the bottom-left corner of the board.
-<img src="/screenshots/ai-config-step-1.png" alt="Step 1" />
+2. Once Manage Apps page is open, Access the Provider's configuration settings by clicking on the  **"AI Jeannie Settings"** icon in the left section of page.
+<img src="/screenshots/ai-provider-config-step-2.png" alt="Step 1" />
 
-3. In the Project settings, under the **Apps** look for the "AI Jeannie - Settings" option. Click on the **"AI Jeannie - Settings"** option to access the configuration settings for the AI Jeannie plugin.
-<img src="/screenshots/ai-config-step-2.png" alt="Step 2" />
+3. Choose the AI provider that you want to integrate with (such as OpenAI, Azure OpenAI) from the available options. Provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, API Version, and API Key. Ensure that you have obtained the API credentials and access details required for the chosen provider.
+<img src="/screenshots/ai-provider-config-step-3.png" alt="Step 3" />
 
-4. Choose the AI provider that you want to integrate with (such as OpenAI, Azure OpenAI) from the available options. Provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, API Version, and API Key. Ensure that you have obtained the API credentials and access details required for the chosen provider.
-<img src="/screenshots/ai-config-step-3.png" alt="Step 3" />
-
-5. Save the configuration settings once all the necessary details are provided.
+4. Save the configuration settings once all the necessary details are provided.
 
 ## Project Definition Configuration
 

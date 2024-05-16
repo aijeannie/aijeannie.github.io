@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 11
 title: Contact Information
 ---
 
@@ -16,5 +16,5 @@ If you –
 
 ### Technical Support
 
-For any technical support, please be free to reach us through your e-mails: xpmcsupport@epam.com
+For any technical support, please be free to reach us through your e-mails: supportaijeannie@epam.com
 

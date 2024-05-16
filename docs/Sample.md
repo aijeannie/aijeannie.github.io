@@ -1,10 +1,11 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
+title: Sample Usecase
 ---
 
 # Sample Usecase 
 
-Here is the Ecommerce sample use case to define the project definition:
+Here is the Ecommerce sample use case for the project definition:
 
 **Project Scope:**
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 9
 title: Troubleshooting
 ---
 
@@ -23,7 +23,7 @@ Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/
 
 <img src="/troubleshooting/ai-provider-error1.png" alt="Project Definition Error" />
 <hr/>
-Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#project-definition-configuration
+Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#step-2-project-definition-configuration
 <hr/>
 
 4. **Handle Unexpected Error:** If you encounter any unexpected error warning message, try refreshing the app using the refresh link provided in the error message. Further, this can help in resolving known issue from Jira Cloud.
@@ -31,18 +31,18 @@ Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/
 <img src="/troubleshooting/handle-unexpected-error.png" alt="Project Definition Error" />
 <hr/>
 
-Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#project-definition-configuration
+Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#step-2-project-definition-configuration
 <hr/>
 
 5. **Validate API Connection:** Test the API connection to the selected AI provider. Ensure that the API Key is valid and has the required permissions to access the AI model. Check any error logs or response messages from the API to identify any connection issues.
 
 <hr/>
 
-6.**Handle AI Provider Error:** : If you face any time out and bad response error by AI Provider while accessing the epics and user stories. Contact your AI provider or system administrator to verify whether rate limit settings are in place or know if any API currently under maintenance. 
+6. **Handle AI Provider Error:** : If you face any time out and bad response error by AI Provider while accessing the epics and user stories. Contact your AI provider or system administrator to verify whether rate limit settings are in place or know if any API currently under maintenance. 
 
 <img src="/troubleshooting/ai-provider-error2.png" alt="AI Provider Error" />
-
 <hr/>
+
 7. **Review Plugin Logs:** Check the plugin logs for any error or warning messages that might provide insights into the issue. The logs can help you identify any specific errors or exceptions occurring during the generation of content.
 
 <hr/>

@@ -1,17 +1,17 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: AI Jeannie
 ---
 
 # Introduction
 
-Let's discover **AI Jeannie in less than 5 minutes**.
+Let's discover **AI Jeannie - Jira Plugin**
 
-## What is AI Jeannie?
+### What is AI Jeannie?
 
 AI Jeannie is a JIRA plugin that assists Business Analysts to generate detailed requirements for epics and user stories based on project definition. It uses advanced text generation models from popular AI provider to quickly generate high-quality, accurate, and relevant requirements. This simplifies the process for all the project teams, saving them time and effort when creating the requirements in Jira. 
 
-## Why use AI Jeannie?
+### Why use AI Jeannie?
 
 AI Jeannie provides several benefits for users looking to optimize their Jira workflows and enhance collaboration among team members. Here’s how it can help:
 
@@ -22,13 +22,8 @@ AI Jeannie provides several benefits for users looking to optimize their Jira wo
 5.	**Boosting Productivity:** AI Jeannie automatically generates acceptance criteria for epics and user stories, freeing up teams to reduce repetitive tasks and focus on creative problem-solving and value-added activities.
 6.	**Facilitating Collaboration:** AI Jeannie provides common language and standardized terminology through prompt template, fostering the collaboration between the Business Analyst and other Jira users.  
  
-## How to install and configure AI Jeannie?
 
-AI Jeannie can be installed from the Atlassian Marketplace. Users need to select their AI provider and configure the Model Deployment URL, Model Name, API Version, and API Key for the plugin to work. Additionally, users need to configure the AI Provider, Project Definition and Prompt Template for the specific JIRA project, they want to utilize with the AI Jeannie plugin.  
-
-*Note:* For complete installation process, please refer to Installation and Configuration section.
-
-## Features of AI Jeannie?
+### Features of AI Jeannie?
 
 AI Jeannie provides the following features:
 

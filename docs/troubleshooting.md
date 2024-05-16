@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Troubleshooting
 ---
 
-## Troubleshooting Guide
+### Troubleshooting Steps
 
 Here's a troubleshooting guide for the AI Jeannie JIRA plugin:
 
@@ -15,7 +15,8 @@ Here's a troubleshooting guide for the AI Jeannie JIRA plugin:
 
 <img src="/troubleshooting/ai-provider-error1.png" alt="AI Provider Error" />
 <hr/>
-Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration/#ai-provider-configuration
+Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#step-1-ai-provider-configuration
+
 <hr/>
 
 3. **Confirm Project Definition Configurations:** Review the Project Definition configured for the specific JIRA project board. Ensure that all the necessary fields and criteria are defined correctly. Any inaccuracies or missing information in the Project Definition can affect the generated content.

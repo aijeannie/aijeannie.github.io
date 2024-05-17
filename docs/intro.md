@@ -19,7 +19,7 @@ AI Jeannie provides several benefits for users looking to optimize their Jira wo
 2.	**Improving Quality and Accuracy:** By leveraging AI Jeannie, users can enhance the quality and accuracy of the project requirements, reducing the need for revisions and rework.
 3.	**Reducing Manual Effort:** AI Jeannie minimizes the manual effort by generating detailed acceptance criteria for epics and user stories tailored to the specific project needs.
 4.	**Enhancing Requirement Quality:** Users can rely on AI Jeannie to improve the quality of epics, user stories and sequence diagrams, leading to better project outcomes and streamlined workflows. 
-5.	**Boosting Productivity:** AI Jeannie automatically generates acceptance criteria for epics and user stories, freeing up teams to reduce repetitive tasks and focus on creative problem-solving and value-added activities.
+5.	**Boosting Productivity:** AI Jeannie generates acceptance criteria for epics and user stories, freeing up teams to reduce repetitive tasks and focus on creative problem-solving and value-added activities.
 6.	**Facilitating Collaboration:** AI Jeannie provides common language and standardized terminology through prompt template, fostering the collaboration between the Business Analyst and other Jira users.  
  
 

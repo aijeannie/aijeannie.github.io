@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: JIRA Permissions 
+sidebar_position: 6
+title: Permissions 
 ---
 
 JIRA Permission mapping for AI Jeannie against the features.

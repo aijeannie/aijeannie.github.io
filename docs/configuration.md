@@ -35,7 +35,7 @@ Here are the steps to configure one of the AI providers:
 
 ### Step 2: Project Definition Configuration
 
-The Project Definition is a critical component utilized by AI Jeannie to fully grasp the context of the project. This understanding is essential for accurately generating tailored Requirements and acceptance criteria that align with the specific needs and goals of the project.
+AI Jeannie allows users to configure the project definition for a specific JIRA project board. The project definition includes information about the domain, business rules, terminology, and other relevant details that AI Jeannie uses to generate accurate and relevant requirements. By configuring the project definition, users can tailor the AI Jeannie output to match the specific requirements of their project.
 
 Here are the steps to configure the Project Definition for the AI Jeannie plugin:
 
@@ -48,7 +48,7 @@ Here are the steps to configure the Project Definition for the AI Jeannie plugin
 | **Field Name** | **Description** | 
 | --- | --- | 
 | Project Scope | Add project inclusions, exclusions, boundaries, constraints, high level scope such as functional and non-functional requirements. | 
-| Project Goals | Define clear, measurable objectives that the project aims to achieve. Describe the intended outcomes and any specific targets or milestones that will indicate the project's success. | 
+| Project Goals | Define clear, measurable objectives that the project aims to achieve. Describe the intended outcomes and any specific targets or milestones, that will indicate the project's success. | 
 | Project Architecture | Provide a high-level overview of the system architecture, detailing the presentation, business logic, data access, integration layers and others. Include the technologies, platforms, and security measures used in each layer to ensure comprehensive understanding and effective implementation. | 
 | Project Compliance & Regulatory | Specify any compliance or regulatory standards that the project must adhere to. include relevant legal requirements, industry standards, or organizational policies that impact the project's execution. | 
 

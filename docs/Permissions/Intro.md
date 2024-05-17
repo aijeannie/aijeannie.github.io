@@ -27,7 +27,7 @@ AI Jeannie supports integration with multiple AI providers, including OpenAI and
 
 ### Feature 2: Project Definition Configuration
 
-AI Jeannie allows users to configure the project definition for a specific JIRA project board. The project definition includes information about the domain, business rules, terminology, and other relevant details that AI Jeannie uses to generate accurate and relevant content. By configuring the project definition, users can tailor the AI Jeannie output to match the specific requirements of their project.
+AI Jeannie allows users to configure the project definition for a specific JIRA project board. The project definition includes information about the domain, business rules, terminology, and other relevant details that AI Jeannie uses to generate accurate and relevant requirements. By configuring the project definition, users can tailor the AI Jeannie output to match the specific requirements of their project.
 
 **Permissions:** read:issue.property:jira, write:issue.property:jira, read:project.property:jira, write:project.property:jira
 

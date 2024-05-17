@@ -4,15 +4,6 @@ title: Acceptance Criteria Generation
 ---
 
 
-###  Features
-
-AI Jeannie predominantly supports three different features as listed below:
-
-1. Acceptance Criteria Generation for Epics and User Stories
-2. Predictive Generation of Epic and User Stories
-3. Sequence Diagram Generation
-
-
 ### Feature 1: Acceptance Criteria Generation for Epics and User Stories 
 
 AI Jeannie automates the generation of acceptance criteria based on the project definition. It uses the natural processing language to understand the context of the project definition along with the summaries of Epics and User stories, to generate appropriate acceptance criteria. Users have flexibility to append these acceptance criteria or overwrite the existing description of Epics and user stories, based on their specific needs and preferences. 
@@ -52,7 +43,7 @@ Here are the steps for generating acceptance criteria for an Epic:
         <img src="/screenshots/Usage/Manual/ac-epic7.png" alt="Step 7" />
         <img src="/screenshots/Usage/Manual/ac-epic8.png" alt="Step 8" />
 8. **Overwrite:**
-       * If you want to overwrite the existing description with AI Jeannie description, then select I confirm to Overwrite option and click Submit as shown in the below.
+       * If you want to overwrite the existing description with AI Jeannie description, then select **I confirm** to Overwrite option and click **Submit** as shown in the below.
         <img src="/screenshots/Usage/Manual/ac-epic9.png" alt="Step 9" />
        * AI Jeannie generated description will overwrite the existing description as shown below.
         <img src="/screenshots/Usage/Manual/ac-epic10.png" alt="Step 10" />

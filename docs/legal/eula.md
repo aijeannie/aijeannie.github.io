@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-title: EULA
+title: Agreement
 ---
 
-# AI Jeannie End User License Agreement
+### AI Jeannie End User License Agreement
 
 This End User License Agreement (“EULA”) is an agreement between you (either an individual or an entity) that has downloaded the Software (defined below) (“Licensee”), and EPAM Systems, Inc. (“EPAM”).
 

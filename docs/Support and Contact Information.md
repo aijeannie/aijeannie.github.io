@@ -11,5 +11,5 @@ If you –
 * Have questions concerning AI Jeannie that you cannot find answers to on our web pages.
 * To provide valuable feedback and suggestions for us to improve and help you better way.
     Then, you are welcome to contact us at EPAM Systems, Inc.
-* For any technical supprot or further assistance, please reach us through via e-mails: supportaijeannie@epam.com
+* For any technical support or further assistance, please reach us through via e-mails: supportaijeannie@epam.com
 

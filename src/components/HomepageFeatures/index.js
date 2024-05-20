@@ -8,9 +8,8 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_add_content_re_vgqa.svg").default,
     description: (
       <>
-        AI Jeannie can generate quick and accurate epic descriptions, user story
-        descriptions, and acceptance criteria based on Project Definition
-        configured.
+        AI Jeannie can generate quick and accurate requirements for epic descriptions and user story
+        descriptions based on Project Definition configured.
       </>
     ),
   },
@@ -30,7 +29,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_product_iteration_kjok.svg").default,
     description: (
       <>
-        AI Jeannie integrates with OpenaI, Azure OpenAI and Google Vertex
+        AI Jeannie integrates with OpenAI and Azure OpenAI 
         provider models to generate high-quality content.
       </>
     ),

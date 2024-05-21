@@ -19,7 +19,7 @@ const FeatureList = [
     description: (
       <>
         AI Jeannie provides customizable prompt templates for epic descriptions,
-        user story descriptions, and acceptance criteria. Users can modify the
+        user story descriptions. Users can modify the
         templates to suit their needs.
       </>
     ),

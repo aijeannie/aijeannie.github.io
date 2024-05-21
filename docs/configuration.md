@@ -22,7 +22,7 @@ Here are the steps to configure one of the AI providers:
 1. Login to JIRA instance and navigate to the JIRA board, where you want to configure the AI Jeannie plugin.
 2. From left navigation pane, select **Project settings > Apps > AI Jeannie - Settings** to access the configuration settings for the AI Jeannie plugin as shown below.
     <img src="/screenshots/Configuration/AIprovider/ai-provider2.png" alt="Step 1" />
-3. Choose **AI provider** from dropdown and provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, **API Version, API Key and set the temperature.
+3. Choose **AI provider** from dropdown and provide the necessary information for the selected AI provider, including the Model Deployment URL, Model Name, API Version, API Key and set the temperature.
 
 | **Field Name** | **Description** |
 | --- | --- | 
@@ -40,7 +40,7 @@ AI Jeannie allows users to configure the project definition for a specific JIRA 
 Here are the steps to configure the Project Definition for the AI Jeannie plugin:
 
 1. From left navigation pane, select **APPS > AI Jeannie** as shown below.
-        <img src="/screenshots/Configuration/Projectdefinition/project-def1.png" alt="Step 1" />
+        <img src="/screenshots/Configuration/Projectdefinition/Project-def1.png" alt="Step 1" />
 
 2. Select **Project Definition** tab and define the fields, criteria, and other project-specific details in the Project Definition. This includes specifying the information that AI Jeannie should use as context, when generating the requirements or acceptance criteria.
         <img src="/screenshots/Configuration/Projectdefinition/Project-def2.png" alt="Step 2" />

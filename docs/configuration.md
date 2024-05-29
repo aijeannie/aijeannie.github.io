@@ -40,7 +40,7 @@ AI Jeannie allows users to configure the project definition for a specific JIRA 
 Here are the steps to configure the Project Definition for the AI Jeannie plugin:
 
 1. From left navigation pane, select **APPS > AI Jeannie** as shown below.
-        <img src="/screenshots/Configuration/Projectdefinition/project-def1.png" alt="Step 1" />
+        <img src="/screenshots/Configuration/Projectdefinition/Project-def1.png" alt="Step 1" />
 
 2. Select **Project Definition** tab and define the fields, criteria, and other project-specific details in the Project Definition. This includes specifying the information that AI Jeannie should use as context, when generating the requirements or acceptance criteria.
         <img src="/screenshots/Configuration/Projectdefinition/Project-def2.png" alt="Step 2" />

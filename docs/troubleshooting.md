@@ -15,7 +15,7 @@ Here's a troubleshooting guide for the AI Jeannie JIRA plugin:
 
 <img src="/troubleshooting/ai-provider-error1.png" alt="AI Provider Error" />
 <hr/>
-Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#step-1-ai-provider-configuration
+Troubleshoot the above issue using this guide: [AI Provider Configuration](https://aijeannie.github.io/docs/configuration#step-1-ai-provider-configuration)
 
 <hr/>
 
@@ -23,7 +23,7 @@ Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/
 
 <img src="/troubleshooting/ai-provider-error1.png" alt="Project Definition Error" />
 <hr/>
-Troubleshoot the above issue using this guide: https://aijeannie.github.io/docs/configuration#step-2-project-definition-configuration
+Troubleshoot the above issue using this guide: [Project Definition](https://aijeannie.github.io/docs/configuration#step-2-project-definition-configuration)
 <hr/>
 
 4. **Handle Unexpected Error:** If you encounter any unexpected error warning message, try refreshing the app using the refresh link provided in the error message. Further, this can help in resolving known issue from Jira Cloud.

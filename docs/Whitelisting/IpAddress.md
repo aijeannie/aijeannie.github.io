@@ -29,7 +29,7 @@ IP Address Range:
 
 Ensure these IP address ranges are included in your firewall or proxy server settings to facilitate communication between AI Jeannie and Azure OpenAI.
 
->*Note:* For further reference, please refer to the: https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/ 
+>*Note:* For further reference, please refer to the: [IP addresses and domains for Atlassian cloud products](https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/ )
 
 Here is the reference screenshot for configuring IP addresses on Azure OpenAI Provider:
 

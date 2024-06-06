@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 #  Sequence Diagram Generation
 
-### Feature 3: Sequence Diagram Generation
+### Feature 5: Sequence Diagram Generation
 
 AI Jeannie can also generate sequence-diagram based on User Story acceptance criteria. Sequence diagrams are visual representations of the interactions between different components or modules in a system. AI Jeannie can automatically generate sequence diagrams that illustrate the flow of actions and communication between various entities in the system. User can edit, regenerate, and export the sequence diagram to .SVG and .PNG formats for future reference.
 

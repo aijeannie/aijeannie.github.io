@@ -3,7 +3,7 @@ sidebar_position: 12
 title: Contact us
 ---
 
-Epam System India Pvt Ltd is truly committed to support our customers and their needs. 
+EPAM Systems is truly committed to support our customers and their needs. 
 
 If you – 
      * Face any issue in AI Jeannie installation and configuration process. 

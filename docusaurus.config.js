@@ -79,11 +79,11 @@ const config = {
             label: "Guides",
           },
           // { to: "/blog", label: "Blog", position: "left" },
-          {
-            href: "https://github.com/aijeannie/aijeannie.github.io",
-            label: "GitHub",
-            position: "right",
-          },
+          // {
+          //   href: "https://github.com/aijeannie/aijeannie.github.io",
+          //   label: "GitHub",
+          //   position: "right",
+          // },
         ],
       },
       footer: {

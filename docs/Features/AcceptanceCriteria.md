@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 title: Acceptance Criteria Generation
 ---
 
 
-### Feature 1: Acceptance Criteria Generation for Epics and User Stories 
+### Feature 3: Acceptance Criteria Generation for Epics and User Stories 
 
 AI Jeannie automates the generation of acceptance criteria based on the project definition. It uses the natural processing language to understand the context of the project definition along with the summaries of Epics and User stories, to generate appropriate acceptance criteria. Users have flexibility to append these acceptance criteria or overwrite the existing description of Epics and user stories, based on their specific needs and preferences. 
 

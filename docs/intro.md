@@ -11,7 +11,7 @@ Let's discover **AI Jeannie - Jira Plugin**
 
 AI Jeannie is a JIRA plugin that assists Business Analysts to generate detailed requirements for epics and user stories based on project definition. It uses advanced text generation models from popular AI provider to quickly generate high-quality, accurate, and relevant requirements. This simplifies the process for all the project teams, saving them time and effort when creating the requirements in Jira. 
 
-### Why use AI Jeannie?
+### Why to use AI Jeannie?
 
 AI Jeannie provides several benefits for users looking to optimize their Jira workflows and enhance collaboration among team members. Here’s how it can help:
 
@@ -27,11 +27,11 @@ AI Jeannie provides several benefits for users looking to optimize their Jira wo
 
 AI Jeannie provides the following features:
 
-1.	**Quick Content Generation:** AI Jeannie quickly produces precise Epic description, User Story description, and acceptance criteria based on the project scope. This significantly improves productivity during elaboration. 
-2.	**Predictive Epics and User Stories:** AI Jeannie generates predictive Epics and User stories based on the project scope, reducing user’s time and effort in elaborating them.
-3.	**Customizable Templates:** AI Jeannie provides editable prompt templates to generate the requirements for Epics and User stories, allowing users to tailor them to their requirements.
-4.	**Sequence Diagram Generation:** AI Jeannie generates sequence diagram to visualize interactions between different components or actors involved in fulfilling User Stories.
-5.	**Natural Processing Language:**  AI Jeannie uses natural processing language to understand the context of project specifications, Epics and User stories and generate relevant requirements.
-6.	**Integration with Multiple AI Providers:** AI Jeannie seamlessly integrates with OpenAI and Azure OpenAI to generate high-quality requirements.
+1.  **Integration with Multiple AI Providers:** AI Jeannie seamlessly integrates with OpenAI and Azure OpenAI to generate high-quality requirements.
+2.  **Customizable Prompt Templates:** AI Jeannie provides editable prompt templates to generate the requirements for Epics and User stories, allowing users to tailor them to their requirements.
+3.  **Acceptance Criteria Generation:** AI Jeannie quickly generates acceptance criteria for Epics and User Stories based on the project scope. This significantly improves productivity during elaboration. 
+4.  **Predictive Epics and User Stories:** AI Jeannie generates predictive Epics and User stories based on the project scope, reducing user’s time and effort in elaborating them.
+5.  **Sequence Diagram Generation:** AI Jeannie generates sequence diagram to visualize interactions between different components or actors involved in fulfilling User Stories.
+
  
 

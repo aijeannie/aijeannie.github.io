@@ -13,7 +13,7 @@ title: Configuration
 
 ### Step 1: AI Provider Configuration
 
-The AI provider configuration involves setting up the AI services provided by AI Jeannie. This configuration process typically involves defining parameters required by the AI provider.
+AI Jeannie supports integration with multiple AI providers, including OpenAI and Azure OpenAI. Users can configure the AI provider settings in the plugin to specify the AI model deployment URL, model name, API version, and API key. This allows users to choose the AI provider that best suits their needs and leverage the capabilities of the selected provider for content generation.
 
 >*Note:* Jira administrators have privilege to configure the AI Provider configuration settings. 
 

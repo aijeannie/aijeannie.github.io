@@ -33,7 +33,7 @@ Here are the steps for generating acceptance criteria for an Epic:
 
 >*Note:*
         * The AI Jeannie checklist will appear in green only when the AI Provider, Project Definition, and Prompt Template settings are correctly configured.
-        * If you want to consider additional attachments information as context for generating acceptance criteria. Click and select the checkbox **Consider attached Images as additional context.** For more information refer to [*Is Multimodel*](https://aijeannie.github.io/docs/AdditionalContext/Multimodel) Section.
+        * If you want to consider additional attachments information as context for generating acceptance criteria. Click and select the checkbox **Consider attached Images as additional context.** For more information refer to [*Using Images as additional Context*](https://aijeannie.github.io/docs/AdditionalContext/Multimodel) Section.
 
 6. Click **Generate AC** to view the AI Jennie suggested Epic requirements.
 7. Wait for few seconds till the AI Jeannie Generates Acceptance Criteria as shown below.
@@ -81,7 +81,7 @@ AI Jeannie automates the generation of acceptance criteria for User Story based 
 
 >*Note:*
 * The AI Jeannie checklist will appear in green only when the AI Provider, Project Definition, and Prompt Template settings are correctly configured.
-* If you want to consider additional attachments information as context for generating acceptance criteria. Click and select the checkbox **Consider attached Images as additional context.** For more information refer to [*Is Multimodel*](https://aijeannie.github.io/docs/AdditionalContext/Multimodel) Section.
+* If you want to consider additional attachments information as context for generating acceptance criteria. Click and select the checkbox **Consider attached Images as additional context.** For more information refer to [*Using Images as additional Context*](https://aijeannie.github.io/docs/AdditionalContext/Multimodel) Section.
 6. Click **Generate AC** to view the AI Jennie suggested User story description as shown below.
         <img src="/screenshots/Usage/Manual/ac-userstory6.png" alt="Step 6" />
 >*Note:*If you do not want to generate acceptance criteria click **Clear AC** to remove the generated acceptance criteria.

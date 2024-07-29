@@ -20,7 +20,7 @@ Here are the installation steps for AI Jeannie JIRA plugin:
         <img src="/screenshots/Installation/installation5.png" alt="Step 5" />
 6. Once you have selected the JIRA site, click **Install app**, as shown below.
         <img src="/screenshots/Installation/installation6.png" alt="Step 6" />
-7. You will be redirected to the “Add to JIRA” modal window. Review the terms and conditions, the click **Get it now** as shown below. 
+7. You will be redirected to “Add to JIRA” modal window. Review the terms and conditions, then click **Get it now** as shown below. 
         <img src="/screenshots/Installation/installation7.png" alt="Step 7" />
 8. Once the installation is completed, you will be redirected to the “Manage apps” page. In this page, you can see the AI Jeannie JIRA plugin as shown below. 
         <img src="/screenshots/Installation/installation8.png" alt="Step 8" />

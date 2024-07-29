@@ -12,7 +12,7 @@ Here are the system requirements for accessing AI Jeannie plugin on Jira dashboa
 
 1.	**Supported JIRA Versions:** Compatible with Jira Cloud instances.
 2.	**Internet Connectivity:** A stable internet connection is necessary for accessing AI Jeannie plugin.
-3.	**Supported Browsers:** Compatible with all standard web browsers such as chrome, Firefox, Safari, or Edge.
+3.	**Supported Browsers:** Compatible with all standard web browsers such as chrome, Firefox, Safari or Edge.
 4.	**RAM and Processor:** Sufficient RAM and processing power are needed to run web-based applications effectively.
 5.	**Third- party AI Provider:** Presently compatible with Azure OpenAI and OpenAI API’s.
 6.	**User Permissions:** Users must have administrator rights within to install and manage JIRA instance and AI Jeannie plugin.

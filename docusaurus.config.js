@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "AI Jeannie",
-  tagline: "Atlassian JIRA AI Plugin for Agile Teams",
+  tagline: "JIRA AI Plugin for Prodctivity improvement for Business Analysts, Prodcut Owners, and Developers",
   favicon: "img/logo.png",
 
   // Set the production url of your site here
@@ -78,7 +78,6 @@ const config = {
             position: "left",
             label: "Guides",
           },
-          // { to: "/blog", label: "Blog", position: "left" },
           // {
           //   href: "https://github.com/aijeannie/aijeannie.github.io",
           //   label: "GitHub",
@@ -115,30 +114,9 @@ const config = {
               },
             ],
           },
-          // {
-          //   title: "Community",
-          //   items: [
-          //     {
-          //       label: "Stack Overflow",
-          //       href: "https://stackoverflow.com/questions/tagged/ai-jeannie",
-          //     },
-          //     {
-          //       label: "Discord",
-          //       href: "https://discordapp.com/invite/ai-jeannie",
-          //     },
-          //     {
-          //       label: "Twitter",
-          //       href: "https://twitter.com/ai-jeannie",
-          //     },
-          //   ],
-          // },
           {
             title: "More",
             items: [
-              // {
-              //   label: "Blog",
-              //   to: "/blog",
-              // },
               {
                 label: "GitHub",
                 href: "https://github.com/aijeannie/aijeannie.github.io",
